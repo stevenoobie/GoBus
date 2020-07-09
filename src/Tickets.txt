@@ -1,0 +1,3 @@
+
+From mahmodeia to gaza2r,Single trip,3,150.690000,1,Minibus,0,
+From Cairo to Alexandria,Single trip,0,49.990000,38,Bus,1,
